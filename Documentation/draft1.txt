@@ -1,0 +1,10 @@
+******** DRAFT #1
+
+
+* TITLE * : DESIGNING 3D PRINTED SPLIT RING COMPOUND PLANETARY GEARBOX FOR ROBOTICS APPLICATIONS
+
+* ABSTRACT *
+	
+	Aim was to design and develop a high reduction ratio gearbox complimentry to NEMA series stepper motors. main use case of such gearbox being, in 6DOF robotic arm, where high torque is required in a compact space. Usually done through harmonic drives, belts, and gearboxes. Aformentioned gearbox works upon the same gearbox branch. Current gearbox designed has a reduction ratio of 70.5:1 and with a net torque of 0.1N in total volume of 0.000175m^3.
+
+	A
